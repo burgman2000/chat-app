@@ -112,6 +112,7 @@
   margin-bottom: 40px;
 }
 
+
 .form {
   background-color: #DDDDDD;
   height: 90px;
@@ -121,6 +122,7 @@
 
 .form-input {
   background-color: white;
+  display: flex;
   width: 100%;
 }
 
